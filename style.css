@@ -1,7 +1,21 @@
-.playwrite-mx-<uniquifier> {
+.playwrite-mx-{
   font-family: "Playwrite MX", cursive;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
 }
-.p{}
+
+p{
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic; 
+}
+
+.titulo-centralizado{
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+}
